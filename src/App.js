@@ -13,13 +13,13 @@ class App extends Component {
 }   
 componentWillMount(){
   var firebaseConfig = {
-    apiKey: "AIzaSyD0HUbmW02lzVaQN3TMzEInzcgHCGT_jHM",
-    authDomain: "app-management-2b3b5.firebaseapp.com",
-    databaseURL: "https://app-management-2b3b5.firebaseio.com",
-    projectId: "app-management-2b3b5",
-    storageBucket: "app-management-2b3b5.appspot.com",
-    messagingSenderId: "51691846536",
-    appId: "1:51691846536:web:cc1339ad60135cca"
+    apiKey: "...",
+    authDomain: "...",
+    databaseURL: "...",
+    projectId: "...",
+    storageBucket: "...",
+    messagingSenderId: "...",
+    appId: "..."
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
