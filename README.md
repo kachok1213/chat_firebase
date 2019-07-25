@@ -2,7 +2,7 @@ simple firebase chat
 
 config your firebasedb:
 
-step 1: add project
+step 1: add project\n
 step 2: go to database
 step 3: real time db
 step 4: ruls
